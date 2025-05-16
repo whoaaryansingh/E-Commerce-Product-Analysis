@@ -1,8 +1,8 @@
 **E-Commerce Product Analysis (Excel Dashboard Project)**
 
-**Tools Used: **Excel (Pivot Tables, Charts, Formulas, Dashboard Design)
+**Tools Used:** Excel (Pivot Tables, Charts, Formulas, Dashboard Design)
 
-**Dataset: **Modified dataset sourced from Kaggle (India-based wearable product orders for women)
+**Dataset:** Modified dataset sourced from Kaggle (India-based wearable product orders for women)
 
 **Overview:**
 
